@@ -1,4 +1,9 @@
 ﻿2013-12-04 zhaobl8807@gmail.com
+ArmstrongNumber.cpp
+阿姆斯特朗数 
+4343 阿姆斯特朗数  软件训练营  初级 入职前练习  C/C++ 
+
+2013-12-04 zhaobl8807@gmail.com
 NQueens.cpp
 N皇后问题
 4342 N皇后  软件训练营  初级 入职前练习  C/C++ 
