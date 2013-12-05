@@ -1,4 +1,14 @@
 ﻿2013-12-05 zhaobl8807@gmail.com
+ScoreLevel.cpp
+百分制成绩
+4344 百分制成绩  软件训练营  初级 入职前练习  C/C++  
+
+2013-12-05 zhaobl8807@gmail.com
+AbsoluteDays.cpp
+计算绝对天数
+4351 计算绝对天数  软件训练营  中级 入职前练习  C/C++  
+
+2013-12-05 zhaobl8807@gmail.com
 DaffodiNum.cpp
 水仙花数
 4369 水仙花数  软件训练营  初级 入职前练习  C/C++ 
