@@ -1,4 +1,9 @@
-﻿2013-12-05 zhaobl8807@gmail.com
+﻿2013-12-06 zhaobl8807@gmail.com
+SameConstructNum.cpp
+查找同构数的数量
+4345 查找同构数的数量  软件训练营  初级 入职前练习  C/C++  
+
+2013-12-05 zhaobl8807@gmail.com
 ScoreLevel.cpp
 百分制成绩
 4344 百分制成绩  软件训练营  初级 入职前练习  C/C++  
